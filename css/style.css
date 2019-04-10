@@ -1,0 +1,95 @@
+img{width: 100%; height: auto;}
+.row{margin-right: 0;margin-left: 0;}
+h2{color:#00527d;text-transform: uppercase;}
+body>div>div>p{font-size: 18px;}
+
+/*Header*/
+.navbar-inverse{background: #fff; border-bottom: 2px solid #00527d;}
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover{
+	background: #fff;box-shadow: inset 0 0px 0px rgba(0,0,0,0);text-shadow: 0 0 0 rgba(0,0,0,0);color: #00527d;}
+.navbar-inverse .navbar-nav>li{margin-left: 15px; margin-right: 15px;}
+
+/*Footer*/
+
+.footer{margin-bottom: 15px; margin-top: 15px;}
+.footer>p{color: black; margin-bottom: 2px;}
+.footer>img{width: 140px;z-index: -10; position: absolute; bottom: 10px; margin-left: -70px; opacity: 0.4}
+
+/*Index Slide Phòng đặc trưng*/
+.es-carousel-wrapper{background: #00527d;}
+.es-carousel{background: #2C6F93;}
+.rg-image-wrapper{background: rgba(0,82,125,0.9);  }
+.rg-image-nav a:hover{background: rgb(0,49,74);}
+.rg-caption p{color:#fff;}
+
+/*Index Vi tri*/
+.vitri>div>img{margin-bottom: 20px;width: 100%;border: 5px solid #00527d;}
+/*Index tiện ích*/
+.tienich{padding-bottom: 20px;}
+.tienich{background:  #f2f2f2; text-align: center;}
+.tienich>div>div>div>svg{fill: #00527d;}
+.tienich>div>div>div>h4{color: #00527d;}
+.tienich>div>div{margin-top:15px;}
+
+/*Categories Content*/
+.thumbnail{margin-bottom: 5px;}
+.page{margin-top: 15px; margin-bottom: 15px;}
+.page h2{color: #501B5F; border-bottom: 2px solid #501B5F;margin-bottom: 1px;}
+.page div.back-link{color: #501B5F;font-size: 18px;}
+.page div.back-link>a{color: #501B5F}
+.ct-category{background: #fff;}
+.ct-category>div.row{margin-top: 10px; border-bottom: 1px solid #501B5F;}
+.ct-category>div>div.img-product{padding-left: 0;}
+.ct-category>div>div.de-product{padding-left: 0;padding-right: 0;}
+.ct-category>div>div.de-product>h3{color: #501B5F;margin-top: 5px;}
+.ct-category>div>div.de-product>h3>span{font-size: 1em; color: red;font-weight: normal;}
+.ct-category>div>div.de-product>h3>a{font-size: 13px;}
+.ct-category>div>div.de-product>p{margin-bottom: 2px;}
+.ct-category>div{position: relative;}
+.ct-category>div>div.form-product{padding-left: 0;padding-right: 0;}
+.ct-category>div>div.form-product{position: absolute;bottom: 8px;right: 0}
+.ct-category>div>div.form-product .form-control{display: inline;width: auto;}
+.ct-category>div>div.form-product .bt-choose{background: #501B5F; border-radius: 0px; color: #fff;}
+.ct-category>div>div.form-product>form>label{margin-right: 5px; margin-left: 5px;}
+.ct-category>div>div.form-product>form>select{margin-right: 10px;}
+.pagination>li>a, .pagination>li>span{color:#501B5F;}
+.pagination>.active>a, .pagination>.active>a:focus, .pagination>.active>a:hover, .pagination>.active>span,
+	.pagination>.active>span:focus, .pagination>.active>span:hover{background: #501B5F; border-color: #501B5F;}
+
+/*Ordering*/
+.ordering{padding-right: 0px;}
+.ordering>div>div>h3{border-bottom: 2px solid #501B5F;padding-bottom: 7px;}
+button.delete{background: #fff; border: 0px solid #fff; position: absolute; top: 0; right: 15px;font-size: 20px}
+.ordering>div>div>hr{border: 1px solid #501B5F;margin-top: 10px; margin-bottom: 10px;}
+.ordering>div>div>div.bt-order{margin-bottom: 20px; margin-top: 10px;}
+.ordering>div>div>div.bt-order>a{background: #501B5F; color: #fff; padding: 10px 15px;margin-top: 10px;}
+
+/**/
+.ct-product{background: #fff;}
+.ct-product>div.content{padding-right: 0px; padding-left: 0px; margin-top: 10px; text-align: justify;}
+.ct-product>div.content>strong{font-weight: bold; font-size: 16px;}
+.ct-product>div.content img{max-width: 90%;}
+
+/*Close - chương trình*/
+.chuongtrinh{width: 300px;position: fixed;bottom: 10px; right: 10px;}
+.close {
+	position: absolute;
+	right: 20px;
+	top:13px;
+    color: #fff;
+    font-size: 25px;
+    opacity: 0.8;
+}
+
+.close:hover,
+.close:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+/*Lý do*/
+.img-lydo{margin-bottom: 15px;margin-top: 20px;}
+.img-lydo>img{border-radius: 50%;border: 5px solid #00527d;}
+
+

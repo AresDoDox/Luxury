@@ -1,0 +1,153 @@
+.vinleft {
+    float: left;
+    width: 644px;
+    height: 400px;
+}
+
+#vincontent {
+    position: relative;
+    
+    background-color: #fff;
+    max-width: 100%;
+    
+}
+
+.rightop {
+        top: 0;
+    
+    
+    background-color: rgba(36, 36, 20, 0.25);
+    width: 330px;
+    height: 80px;
+    position: absolute;
+}
+
+
+.rightop ul {
+       margin-top: 64px;
+    margin-left: 35px;
+}
+
+.rightop ul li a {
+        color: black; 
+        text-decoration: blink;
+}
+
+
+.titlerightop {
+    top: 23px;
+    left: 67px;
+    width: 100px;
+    position: absolute;
+    color: #fff;
+    line-height: normal;
+    letter-spacing: normal;
+    font-size: 24px;
+}
+
+.contentleft {
+    width: 644px;
+}
+
+.contact-vin {
+    width: 644px;
+    padding-top: 410px;
+}
+
+.contact-vin-left {
+    float: left;
+    width: 462px;
+    height: 52px;
+    background: black;
+}
+
+.content-vin {
+    position: relative;
+   
+    max-width: 100%;
+}
+
+.contact-vin-right {
+    /* background: black; */
+    float: left;
+    width: 177px;
+    height: 52px;
+    background: black;
+    /* padding-left: 10px; */
+    /* left: 587px; */
+    margin-left: 5px;
+}
+
+.contact-tit-vin {
+    color: #fff;
+    font: normal normal normal 25px/1.4em play,sans-serif;
+    line-height: 47px;
+    margin-left: 78px;
+}
+
+.contact-tit-vin-en {
+    color: #fff;
+    font: normal normal normal 25px/1.4em play,sans-serif;
+    line-height: 47px;
+    margin-left: 50px;
+}
+
+.contact-tit-vin-en a {
+     color: #fff;
+}
+
+.contact-tit-vin-en a:hover {
+     color: #00AEF1;
+}
+
+.noidung-vin {
+        width: 644px;
+        margin-top: 65px;
+        line-height: 23px;
+}
+
+
+.vinright {
+    top: 0;
+    left: 650px;
+    /* background-color: rgba(36, 36, 36, 0.25); */
+    width: 330px;
+    /* height: 301px; */
+    position: absolute;
+}
+
+.lienhevin {
+    margin-top: 41px;
+    width: 324px;
+    height: 421px;
+}
+
+.lienhebot {
+    width: 324px;
+        margin-top: 10px;
+    height: 130px;
+    background-color: rgba(36, 36, 36, 0.25);
+}
+
+.titlelienhe {
+           color: #fff;
+    line-height: normal;
+    letter-spacing: normal;
+    font-size: 27px;
+    padding-top: 14px;
+    padding-left: 36px;
+         
+}
+
+.titlesdt {
+   color: #fff;
+    line-height: normal;
+    letter-spacing: normal;
+    font-size: 27px;
+    padding-top: 5px;
+    padding-left: 75px;
+}
+
+
+
+

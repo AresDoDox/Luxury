@@ -1,0 +1,16 @@
+@media (max-width: 767px) {
+/*Header*/
+.navbar-brand>img{width: auto; height: 100%;}
+	.navbar-inverse .navbar-toggle, .navbar-inverse .navbar-toggle:active,.navbar-inverse .navbar-toggle:focus, 
+	.navbar-inverse .navbar-toggle:visited, .navbar-inverse .navbar-toggle:link{border-color:#00527d; background: #00527d}
+		.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form{border-bottom: 1px solid #00527d;}
+	.navbar-inverse .navbar-collapse,.navbar-inverse .navbar-form{ background: #00527d;}
+	.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover{
+			background: #fff; color: #00527d;margin:0 -15px;padding-left: 15px;}
+	.navbar-inverse .navbar-nav>li>a, .navbar-inverse .navbar-nav>li>a:focus, .navbar-inverse .navbar-nav>li>a:hover{
+			background: #00527d; color: #fff;margin:0 -15px;padding-left: 15px;}
+
+
+/*Index Style-Room*/
+	.style-room>div>div>div>div{padding-top: 2%;}
+}
